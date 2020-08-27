@@ -1,6 +1,6 @@
 /* CONNECTING WP */
 
-const apiUrl = "http://vikceb2.dreamhosters.com/wp-json/wp/v2/"; 
+const apiUrl = "https://vikceb2.dreamhosters.com/wp-json/wp/v2/"; 
 const apiKey = "EJ2AkadAkmytdiSL04u0Vh68Kr3ekQPM";
 
 let articleSection = document.querySelector("#upcoming-article-js"); //section where articles should go
